@@ -47,3 +47,5 @@ This code is provided as-is, with NO guarantees or liabilities. Use at your own 
 * [at89c2051 datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc0368.pdf)
 * [sdcc user guide](http://sdcc.sourceforge.net/doc/sdccman.pdf)
 * [stcgal](https://github.com/grigorig/stcgal)
+* [Arduino-based AT89C2051 programmer](https://hackaday.io/project/29503-arduino-based-at89c2051-programmer)
+* [Introduction to 8051 Programming With AT89C2051 (Guest Starring: Arduino)](https://www.instructables.com/Introduction-to-8051-Programming-With-AT89C2051-gu)
